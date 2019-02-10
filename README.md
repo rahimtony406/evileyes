@@ -3,7 +3,7 @@
 
 Installation Step :
 
-1) git clone https://github.com/Bhai4You/Termux-Banner
+1) git clone https://github.com/rahimtony406/evileyes.git
 
 
 2) cd Termux-Banner
